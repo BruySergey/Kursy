@@ -1,3 +1,5 @@
+
+
 def get_float(arg):
     while(True):
         input_var = input(f'Введите {arg}: ')
